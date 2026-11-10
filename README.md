@@ -110,5 +110,3 @@ opencode plugin remove <package>
 | Skill | Purpose | Source |
 |---|---|---|
 | `context7-mcp` | Library/framework docs via Context7 MCP | local (not tracked in skill-lock) |
-" path">
-C:\Users\Majkownica2000\Documents\programovani\opencode_rozsireni\README.md
